@@ -1,0 +1,18 @@
+问题 F: 单词反转
+
+    题目描述
+    给你一些英文句子，请将这些句子中的每个英语单词反转，然后再将其输出。这里所说的英语单词仅由大、小写英文字母组成。
+
+    输入
+    多个英文句子，每句占一行，且每句不超过80个字符。
+
+    输出
+    按题目要求输出。
+
+    样例输入复制
+    Hello world!
+    Happy programming, happy life!
+
+    样例输出复制
+    olleH dlrow!
+    yppaH gnimmargorp, yppah efil!
